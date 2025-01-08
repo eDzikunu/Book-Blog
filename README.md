@@ -15,8 +15,8 @@ A web browser for testing
 Setup
 Clone the repository:
 
-Copy code
-git clone https://github.com/eDzikunu/Book-Blog.gitcd Book-Blog
+Copy code:
+git clone https://github.com/eDzikunu/Book-Blog.gitcd
 
 Install dependencies:
 npm install
