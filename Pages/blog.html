@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Knowledge Database</title>
+  <link rel="stylesheet" href="../styles/blog.css">
+  <script src="../scripts/blog.js" defer></script>
+</head>
+<body>
+  <header class="navbar">
+    <h1><a href="/">Prometheus</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/browse">Browse Books</a></li>
+        <li><a href="/library">My library</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/about">About Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="content">
+    <div class="blog-content">
+        <h1 class="title">Welcome to Your Blog</h1>
+
+        <form id="postForm" onsubmit="addPost(event)">
+            <label for="author">Author:
+                <input type="text" id="author" name="author" required>
+            </label>
+          
+            <label for="title">Title:
+                <input type="text" id="title" name="title" required>
+            </label>
+          
+            <label for="user">Name:
+                <input type="text" id="user" name="user" required>
+            </label>
+          
+            <label for="summary">Summary:
+                <textarea id="summary" name="summary" required></textarea>
+            </label>
+            
+            <label for="image">Upload Book Image:
+                <input type="file" id="image" name="image" accept="image/*" required>
+            </label>
+          
+            <button type="submit">Submit</button>
+    
+        </form>
+    
+        <div id="posts">
+            <h2>My Post</h2>
+            <ul id="postsList"></ul>
+  </main>
+</body>
+</html>

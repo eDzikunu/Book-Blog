@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Library</title>
+    <link rel="stylesheet" href="../styles/library.css">
+    <script src="../scripts/library.js" defer></script>
+</head>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <h1><a href="/">Prometheus</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/browse">Browse Books</a></li>
+        <li><a href="/library">My library</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/about">About Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+<body>
+    <h1 class="title">Book Library</h1>
+
+    <form id="form-container" onsubmit="addBook(event)">
+        <input type="text" id="title" placeholder="Book Title" required>
+        <input type="text" id="author" placeholder="Author" required>
+        <button type="submit">Add Book</button>
+    </form>
+    
+    <div id="book-list">
+        <h2>My Books</h2>
+        <ul id="books"></ul>
+    </div>
+</body>
+</html>

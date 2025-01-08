@@ -1,0 +1,102 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "summary": "A timeless story of moral growth and justice."
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "summary": "A chilling dystopian tale of totalitarianism."
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "summary": "A critique of the American Dream in the Jazz Age."
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "summary": "A classic novel about manners and matrimony."
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "summary": "A gripping adventure of obsession and revenge."
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "summary": "A tale of teenage angst and rebellion in post-war America."
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "summary": "A fantasy adventure of a reluctant hero and a treasure quest."
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "summary": "A dystopian vision of a scientifically controlled society."
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "summary": "A philosophical tale about finding one's personal legend."
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "summary": "A sweeping narrative of Russian society during the Napoleonic Wars."
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "summary": "A post-apocalyptic journey of survival and fatherly love."
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "summary": "An exploration of morality and redemption in Tsarist Russia."
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "summary": "A moving story of friendship, betrayal, and redemption in Afghanistan."
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "summary": "The tale of a scientist's creation and the consequences of playing God."
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "summary": "A fascinating exploration of human history and culture."
+    },
+    {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "summary": "A memoir by the former First Lady of the United States."
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "summary": "A memoir of overcoming a strict and abusive upbringing to gain education."
+    },
+    {
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "summary": "An exploration of how habits form and how to change them."
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "summary": "A guide to building good habits and breaking bad ones."
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "summary": "A deep dive into how we think and make decisions."
+    }
+]
